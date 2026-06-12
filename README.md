@@ -33,6 +33,8 @@ Built a multi-agent AI system that **autonomously reads quantitative finance res
 
 **Stack** Python · LangGraph · LLaMA/QLoRA · RAG (Qdrant) · GCP/GPU Infrastructure · Lambda AI
 
+---
+
 ### 🎲 [Bayesian MCMC Hierarchical Portfolio Construction Model](https://github.com/sami-naeem/Bayesian-Investment-Portfolio-Construction)
 
 Built a proprietary Bayesian Hierarchical MCMC portfolio construction model — **unavailable in any commercial robo-advisor** — that samples the full probability distribution of returns and correlations across 9 asset classes, embedding investment uncertainty directly into the allocation.
@@ -51,6 +53,8 @@ Built a proprietary Bayesian Hierarchical MCMC portfolio construction model — 
 - The Bayesian CVaR portfolio returned **26.87% — nearly 4× the Monte Carlo equivalent** and ahead of Morningstar's conservative benchmark (23.89%).
 
 **Stack** Python · PyMC · CVXPY · ArviZ · NumPy/SciPy · yfinance
+
+---
 
 ### 📷 [BMI Estimation from Facial Images](https://github.com/sami-naeem/BMI-Estimation-From-Facial-Images-CompVision)
 
