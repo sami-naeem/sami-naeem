@@ -1,5 +1,9 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=825&lines=Hi+there%2C+welcome+to+my+repo" alt="Typing SVG" /></a>
+<img src="https://github.com/sami-naeem/Images_For_ReadMe/blob/main/readme_header.jpg" alt="Header" />
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=825&lines=Hey+there%2C+welcome+to+my+GitHub" alt="Typing SVG" /></a>
 </p>
 
 # Hi, I'm Sami Naeem 👋
