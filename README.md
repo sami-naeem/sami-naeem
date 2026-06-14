@@ -95,30 +95,30 @@ A non-invasive health screening tool: given a single photo of someone's face, th
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**<u>Languages</u>**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql) ![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash)
 
-**Agentic AI & NLP**
+**<u>Agentic AI & NLP</u>**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-0D1117?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface) ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-0D1117?style=for-the-badge&logo=huggingface) ![Qdrant](https://img.shields.io/badge/Qdrant-0D1117?style=for-the-badge) ![rank-bm25](https://img.shields.io/badge/rank--bm25-0D1117?style=for-the-badge)
 
-**ML & Deep Learning**
+**<u>ML & Deep Learning</u>**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras) ![JAX](https://img.shields.io/badge/JAX-0D1117?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn) ![LightGBM](https://img.shields.io/badge/LightGBM-0D1117?style=for-the-badge) ![FLAML](https://img.shields.io/badge/FLAML-0D1117?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv)
 
-**Quant & Time Series**
+**<u>Quant & Time Series</u>**
 
 ![PyMC](https://img.shields.io/badge/PyMC-0D1117?style=for-the-badge) ![CVXPY](https://img.shields.io/badge/CVXPY-0D1117?style=for-the-badge) ![statsmodels](https://img.shields.io/badge/statsmodels-0D1117?style=for-the-badge) ![arch/GARCH](https://img.shields.io/badge/arch%2FGARCH-0D1117?style=for-the-badge) ![TimeGPT](https://img.shields.io/badge/TimeGPT-0D1117?style=for-the-badge) ![Mamba](https://img.shields.io/badge/Mamba-0D1117?style=for-the-badge)
 
-**Cloud, Data & MLOps**
+**<u>Cloud, Data & MLOps</u>**
 
 ![GCP](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0D1117?style=for-the-badge&logo=googlecloud) ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git) ![DVC](https://img.shields.io/badge/DVC-0D1117?style=for-the-badge&logo=dvc) ![Evidently](https://img.shields.io/badge/Evidently-0D1117?style=for-the-badge) ![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake) ![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
 
-**Apps & APIs**
+**<u>Apps & APIs</u>**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi) ![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=for-the-badge&logo=pydantic) ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit) ![Uvicorn](https://img.shields.io/badge/Uvicorn-0D1117?style=for-the-badge&logo=gunicorn)
 
-**Product & Certifications**
+**<u>Product & Certifications</u>**
 
 ![CSPO](https://img.shields.io/badge/Certified%20Scrum%20Product%20Owner-0D1117?style=for-the-badge) ![CSM](https://img.shields.io/badge/Certified%20ScrumMaster-0D1117?style=for-the-badge) ![CFA](https://img.shields.io/badge/CFA%20Level%201-0D1117?style=for-the-badge)
