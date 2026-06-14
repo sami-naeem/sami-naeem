@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=825&lines=Hey+there%2C+welcome+to+my+GitHub" alt="Typing SVG" /></a>
 </p>
 
-# Hi, I'm Sami Naeem 👋
+# Hi, I'm Sami 👋
 
 **AI Product Manager.** 8+ years of experience building the **#2 robo-advisor in the US** ($190B+ AUM/AUA · 1.7M+ investors) at Morningstar, now pairing that domain depth with an **MS in Applied Data Science (University of Chicago, 2026)** to build agentic AI for wealth management.
 
