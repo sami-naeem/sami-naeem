@@ -4,7 +4,7 @@
 
 # Hi, I'm Sami Naeem 👋
 
-**AI Product Manager.** 7 years at Morningstar building the **#2 robo-advisor in the US** ($190B+ AUM/AUA · 1.7M+ investors), now pairing that domain depth with an **MS in Applied Data Science (University of Chicago, 2026)** to build agentic AI for wealth management.
+**AI Product Manager.** 8+ years of experience building the **#2 robo-advisor in the US** ($190B+ AUM/AUA · 1.7M+ investors) at Morningstar, now pairing that domain depth with an **MS in Applied Data Science (University of Chicago, 2026)** to build agentic AI for wealth management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
