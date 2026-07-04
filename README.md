@@ -67,7 +67,7 @@ Built a proprietary Bayesian Hierarchical MCMC portfolio construction model — 
 
 ---
 
-### 📷 [BMI Estimation from Facial Images](https://github.com/sami-naeem/BMI-Estimation-From-Facial-Images-CompVision)
+### 📷 [BMI Estimation from Facial Images with Computer Vision](https://github.com/sami-naeem/BMI-Estimation-From-Facial-Images-CompVision)
 
 A non-invasive health screening tool: given a single photo of someone's face, the model estimates their Body Mass Index. Built to replicate and improve on a 2017 peer-reviewed paper from AAAI.
 
@@ -89,7 +89,7 @@ A non-invasive health screening tool: given a single photo of someone's face, th
 |---|---|---|
 | [Market Fear & Greed Classifier](https://github.com/sami-naeem/Market-Fear-Greed-Indicator) | Production-grade MLOps pipeline classifying market sentiment (Fear / Stable / Greed) from VIX with 91.4% accuracy: feature store, AutoML, cloud deployment, and drift monitoring | GCP Vertex AI · FLAML · DVC · Evidently |
 | [KSE-100 Equity Forecasting](https://github.com/sami-naeem/Pakistan_Stock_Market_Prediction) | Decoupled Signal + Risk engine for 30-day index forecasting on the Pakistan Stock Exchange | Mamba · TimeGPT · SARIMAX · GARCH |
-| [Headline Sentiment Analysis](https://github.com/sami-naeem/Newspaper-Headline-Sentiment-Analysis-Model) | Full-stack NLP classifier shipping three interfaces: Streamlit UI, FastAPI REST API, and CLI batch scoring | sentence-transformers · SVM · FastAPI · Streamlit |
+| [Headline Sentiment Analysis using NLP](https://github.com/sami-naeem/Newspaper-Headline-Sentiment-Analysis-Model) | Full-stack NLP classifier shipping three interfaces: Streamlit UI, FastAPI REST API, and CLI batch scoring | sentence-transformers · SVM · FastAPI · Streamlit |
 
 ---
 
