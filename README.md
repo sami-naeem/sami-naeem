@@ -41,7 +41,7 @@ At quantitative hedge funds, finding new investment strategies means reading hun
 
 - The multi-agent pipeline **outperformed single-pass calls to GPT-4o, Claude, and Gemini in 55% of head-to-head matchups** — winning on quality of output, not just speed
 - Our fine-tuned LLaMA **nearly doubled the base model's accuracy** on extracting investment logic (43% win rate vs. 23% for the base model)
-- The system replicates ~2 papers per day vs. a human baseline of 2 per week — an estimated **10× productivity gain at 1/3 the cost** (~$50K/yr vs. ~$150K/yr for an entry-level quant researcher)
+- The system replicates 2 papers per day vs. a human baseline of 2 per week — an estimated **10× productivity gain at 1/3 the cost** (~$50K/yr vs. ~$150K/yr for an entry-level quant researcher)
 
 **Stack:** Python · LangGraph · LLaMA 3.1-8B · QLoRA · RAG (Qdrant) · GCP · Lambda AI
 
