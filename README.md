@@ -47,7 +47,7 @@ At quantitative hedge funds, finding new investment strategies means reading hun
 
 ---
 
-### 🎲 [Bayesian Hierarchical MCMC Portfolio Construction](https://github.com/sami-naeem/Bayesian-Investment-Portfolio-Construction)
+### 🎲 [Markov Chain Monte Carlo Hierarchical (Bayesian) Portfolio Construction Engine](https://github.com/sami-naeem/Bayesian-Investment-Portfolio-Construction)
 
 Built a proprietary Bayesian Hierarchical MCMC portfolio construction model — unavailable in any commercial robo-advisor — that samples the full probability distribution of returns and correlations across 9 asset classes, embedding investment uncertainty directly into the allocation.
 
