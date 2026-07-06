@@ -33,17 +33,18 @@ I'm a product manager who refuses the usual trade between domain expertise and t
 
 🏆 **2nd Place, UChicago MS Applied Data Science Capstone Showcase (2026)**
 
-At quantitative hedge funds, finding new investment strategies means reading hundreds of academic papers, extracting the key ideas, building the underlying signals, and backtesting them. It is the most labor-intensive part of a quant researcher's job. We built an AI system that does it autonomously.
+At quant hedge funds, sourcing new strategies means reading hundreds of academic papers, extracting the signal logic, mapping it to data, and backtesting — the most labor-intensive part of the job. We built a multi-agent system that automates the full replication loop.
 
-**How it works:** Seven specialized AI agents work in sequence — one reads and classifies the paper, the next extracts the investment logic, the next maps it to real financial data, and the final agents write executable code and run a backtest. The agents are built with LangGraph and powered by a custom version of LLaMA we fine-tuned on ~3,000 quantitative finance papers.
+**How it works:** A LangGraph state graph orchestrates six specialized agents over shared state: paper triage, economic-variable extraction, factor-logic extraction, specification building, Sharadar data mapping, and code generation. The extraction agents pull evidence via iterative BM25 retrieval over the paper; generated code runs in a sandbox with an automated error-feedback revision loop. The agents run on LLaMA 3.1-8B, QLoRA-fine-tuned on 2,959 chain-of-thought instruction pairs distilled from ~2,900 finance papers through a Qdrant/BGE retrieval pipeline.
 
-**Results across 150 blind evaluations on 50 expert-curated papers:**
+**Agent Eval:** We built an LLM-as-Judge harness that scores theme classification, extraction quality, and generated code against 50 ground-truth papers using rubric scores plus cosine similarity, run as 150 blind forced-choice comparisons against frontier models.
 
-- The multi-agent pipeline **outperformed single-pass calls to GPT-4o, Claude, and Gemini in 55% of head-to-head matchups** — winning on quality of output, not just speed
-- Our fine-tuned LLaMA **nearly doubled the base model's accuracy** on extracting investment logic (43% win rate vs. 23% for the base model)
-- The system replicates 2 papers per day vs. a human baseline of 2 per week — an estimated **10× productivity gain at 1/3 the cost** (~$50K/yr vs. ~$150K/yr for an entry-level quant researcher)
+- Beat single-pass frontier models (OpenAI, Anthropic, Google) in 55% of matchups — strongest against Anthropic (62%)
+- The fine-tune won 43% of a three-way extraction horse race, nearly double base LLaMA's 23%
 
-**Stack:** Python · LangGraph · LLaMA 3.1-8B · QLoRA · RAG (Qdrant) · GCP · Lambda AI
+**Impact:** ~10× throughput (2 papers/day vs 2/week human) at ~1/3 the cost (~$50K vs ~$150K/yr).
+
+**Stack:** Python · LangGraph · LLaMA 3.1-8B + QLoRA · vLLM · Qdrant/BGE · GCP · Lambda AI
 
 ---
 
